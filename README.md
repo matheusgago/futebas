@@ -106,3 +106,6 @@ Na tela de detalhes de cada partida:
 - [src/components/ApiConfigModal.jsx](file:///c:/Users/mabf.gago/Desktop/futebas/src/components/ApiConfigModal.jsx): Gerenciamento da chave de API e teste de latência.
 - [vite.config.js](file:///c:/Users/mabf.gago/Desktop/futebas/vite.config.js): Proxy reverso local `/api/football` para evitar CORS e proteger a chave.
 - [.env.example](file:///c:/Users/mabf.gago/Desktop/futebas/.env.example): Exemplo de configuração de variáveis de ambiente.
+
+
+   http://localhost:5173/
