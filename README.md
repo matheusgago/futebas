@@ -109,3 +109,5 @@ Na tela de detalhes de cada partida:
 
 
    http://localhost:5173/
+  <img width="594" height="233" alt="image" src="https://github.com/user-attachments/assets/755c8f1c-7bc3-407e-82c6-8f2c26807b7a" />
+
